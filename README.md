@@ -25,7 +25,7 @@ Conversion is mainly done via the [chemengwiki-migration](https://chemengwiki-mi
 
 
 1. Copy the HTML source code from the Confluence page. This is done through clicking "Edit" and then clicking "Open in source editor" (`< >`) on the top right. In his document, Jingxian recommended copying chunk by chunk (200 to 300 lines).
-	![3.png](/Migration_workflow/Assets/update/3.png)
+	![3.png](https://chemengwiki.com/Migration_workflow/Assets/update/3.png)
 	Personally, I used Ctrl+A and copied everything; I do not think I have found errors.
 1. Go to the [conversion page](http://chemengwiki-migration.herokuapp.com/en/Conversion/ConversionPage) and through the menu on the top right, make sure the page is converted to HTML.
 1. Edit the page. Clear everything in there and paste the entire source code into it.
